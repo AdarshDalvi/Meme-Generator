@@ -1,0 +1,32 @@
+.Header{
+    display: flex;
+    position: fixed;
+    height: 65px;
+    top: 0;
+    left: 0;
+    right: 0;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 37px; 
+    align-items: center;
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+}
+
+.image-box{
+    display: flex;
+    align-items: center;
+}
+
+.title{
+    font-family: 'Karla';
+    font-weight: 700;
+    font-size: 20px;
+    color: white;
+}
+
+.sub-title{
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 12px;
+    color: white;
+}
